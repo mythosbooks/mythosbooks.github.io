@@ -7,7 +7,7 @@
 /* General Body Rules */
 
 body {
-    background-color: #000000;
+    background-color: #ffffff;
     font-family: georgia, serif;
     font-size: 16px;
     line-height: 24px;
@@ -21,7 +21,7 @@ body {
 	background-color: #ffffff;
 	border:10px;
 	border-style:solid;
-	border-color: #6c6a6a; 
+	border-color: #00005c; 
 	padding:5px;
 	}
 
