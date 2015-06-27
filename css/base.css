@@ -199,8 +199,8 @@ footer {
 /*help here */
 .left {
     float: left;
-    height: 450px;
-    width: 265px;
+    height: 100%;
+    width: 80%;
 }
 .right {
     margin-left: 275px;
