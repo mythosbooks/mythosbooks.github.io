@@ -11,6 +11,7 @@ body {
     font-family: georgia, serif;
     font-size: 16px;
     line-height: 24px;
+    box-shadow:none;
 }
 
 #wrapper {
@@ -21,10 +22,12 @@ body {
 	background-color: #ffffff;
 	border:none;
 	padding:5px;
+	box-shadow: -10px 0px 20px  #000000;
 	}
 
 p {
     margin: 16px 0px 0px 16px;
+    box-shadow:none;
 }
 
 /* Header Rules */
@@ -33,11 +36,9 @@ p {
     background-color: #730000;
     width:100%;
     max-height:200px;
+    box-shadow:none;
 }
 
-div {
-    box-shadow: -10px 10px 10px 10px #000000;
-}
 
 header {
     background-color: #730000;
@@ -45,6 +46,7 @@ header {
     width: 98%; 
     font-size: 18px;
     margin: 10px;
+    box-shadow:none;
 }
 
 header a {
