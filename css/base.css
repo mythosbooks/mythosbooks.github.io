@@ -7,7 +7,7 @@
 /* General Body Rules */
 
 body {
-    background-color: #ffffff;
+    background-color: #4D4D4D;
     font-family: georgia, serif;
     font-size: 16px;
     line-height: 24px;
@@ -15,10 +15,10 @@ body {
 
 #wrapper {
 	max-width:960px; 
-	height: auto;
+	height: 100%;
 	margin-left:auto;
 	margin-right:auto;
-	background-color: #4D4D4D;
+	background-color: #ffffff;
 	border:1px;
 	border-style:solid;
 	border-color: #00005c; 
@@ -33,7 +33,7 @@ p {
 
 .banner {
     background-color: #730000;
-    width:99%;
+    width:100%;
     max-height:100px;
 }
 
