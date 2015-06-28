@@ -13,19 +13,13 @@ body {
     line-height: 24px;
 }
 
-div {
-    box-shadow: 10px 10px 5px #888888;
-}
-
 #wrapper {
 	max-width:960px; 
 	height: 100%;
 	margin-left:auto;
 	margin-right:auto;
 	background-color: #ffffff;
-	border:1px;
-	border-style:solid;
-	border-color: #00005c; 
+	border:none;
 	padding:5px;
 	}
 
@@ -41,6 +35,9 @@ p {
     max-height:200px;
 }
 
+div {
+    box-shadow: -10px 10px #000000;
+}
 
 header {
     background-color: #730000;
