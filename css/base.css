@@ -80,7 +80,7 @@ header a:active {
 
  .menu {
      width: 98%;
-     margin:0px auto;
+     margin:0px;
  }
 .menu li {
     margin:0px;
@@ -89,12 +89,12 @@ header a:active {
  
 .menu a {
     transition:all linear 0.15s;
-    color:#919191;
+    color:#4D4D4D;
 }
  
 .menu li:hover > a, .menu .current-item > a {
     text-decoration:none;
-    color:#be5b70;
+    color:#600303;
 }
  
 .menu .arrow {
@@ -107,11 +107,11 @@ header a:active {
     float:left;
     display:inline-block;
     position:relative;
-    font-size:19px;
+    font-size:18px;
 }
  
 .menu > ul > li > a {
-    padding:10px 40px;
+    padding:10px 30px;
     display:inline-block;
     text-shadow:0px 1px 0px rgba(0,0,0,0.4);
 }
