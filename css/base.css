@@ -79,7 +79,7 @@ header a:active {
 }
 
  .menu {
-     width: 98%;
+     width: 100%;
      margin:0px;
  }
 .menu li {
@@ -94,7 +94,7 @@ header a:active {
  
 .menu li:hover > a, .menu .current-item > a {
     text-decoration:none;
-    color:#600303;
+    color:#ffffff;
 }
  
 .menu .arrow {
@@ -150,7 +150,7 @@ header a:active {
 }
  
 .sub-menu li a:hover, .sub-menu .current-item a {
-    background:#3e3436;
+    background:#383334;
 }
 /* End Nav Dropdown rules */
 
