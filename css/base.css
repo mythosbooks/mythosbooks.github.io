@@ -89,7 +89,7 @@ header a:active {
  
 .menu a {
     transition:all linear 0.15s;
-    color:#4D4D4D;
+    color:#747272;
 }
  
 .menu li:hover > a, .menu .current-item > a {
