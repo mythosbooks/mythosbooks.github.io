@@ -215,6 +215,7 @@ footer {
 .right {
     margin-left: -425px;
     height: 100%; 
+    vertical-align: text-top;
 }
 
 
