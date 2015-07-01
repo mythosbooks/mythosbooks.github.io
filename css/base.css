@@ -209,35 +209,15 @@ footer {
     height: 100%;
     padding: 2px;
     margin: 2px;
+    vertical-align: text-top;
 }
+
 .right {
-    margin-left: -450px;
+    margin-left: -425px;
     height: 100%; 
 }
 
 
-.inline {
-    margin: 0px; 
-    padding: 0px;
-}
-
-.resources img {
-    float: left; 
-    max-width: 75px;
-    max-height: 75px;
-    vertical-align: middle;
-    margin: 10px 10px 0px 10px;
-    padding: 0px;
-}
-
-.align p {
-	float:clear;
-	align:top;
-}
-
-.blog {
-    margin-left: 55px;
-}
 /*Specific resume rules */
 .resume {
     font-family: "times new roman", sans-serif; 
