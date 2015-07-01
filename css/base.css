@@ -207,12 +207,11 @@ footer {
 .left {
     float: left;
     height: 100%;
-    width: 80%;
     padding: 2px;
     margin: 2px;
 }
 .right {
-    margin-left: 5px;
+    margin-left: -450px;
     height: 100%; 
 }
 
