@@ -224,8 +224,14 @@ footer {
     float: left; 
     max-width: 75px;
     max-height: 75px;
+    align:top;
     margin: 10px 10px 0px 10px;
     padding: 0px;
+}
+
+.align p {
+	float:clear;
+	align:top;
 }
 
 .blog {
