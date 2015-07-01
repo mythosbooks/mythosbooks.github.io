@@ -224,7 +224,7 @@ footer {
     float: left; 
     max-width: 75px;
     max-height: 75px;
-    vertical-align:text-top;
+    vertical-align:top;
     margin: 10px 10px 0px 10px;
     padding: 0px;
 }
