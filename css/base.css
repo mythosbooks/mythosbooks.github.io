@@ -229,8 +229,8 @@ footer {
     height: 100%;
 }
 
-.about {
-	margin:10px, 0px, 70px, 10px;
+.about p {
+	margin:10px, 0px, 80px, 10px;
 }
 
 /*Specific resume rules */
