@@ -213,9 +213,8 @@ footer {
 }
 
 .right {
-    float: clear;	
     margin-left: -425px;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
     height: 100%;
 }
 
