@@ -212,7 +212,7 @@ footer {
     vertical-align: middle;
 }
 
-.left img {
+img .left {
 	float: left;
 	border: 2px, black;
 
