@@ -211,13 +211,7 @@ footer {
 	margin: 10px;
 }
 
-.left {
-    float: left;
-    height: 100%;
-    padding: 2px;
-    margin: 10px 10px 10px 10px;
-    vertical-align: middle;
-}
+
 
 .right {
     margin-left: -425px;
