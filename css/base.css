@@ -210,14 +210,8 @@ footer {
     padding: 2px;
     margin: 10px;
     vertical-align: middle;
+    border: 2px, solid black;
 }
-
-img .left {
-	float: left;
-	border: 2px, black;
-
-}
-
 
 .right {
     margin-left: -425px;
