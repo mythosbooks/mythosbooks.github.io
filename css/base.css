@@ -208,7 +208,7 @@ footer {
     float: left;
     height: 100%;
     padding: 2px;
-    margin: 10px;
+    margin: 10px 10px, 40px, 10px;
     vertical-align: middle;
 }
 
