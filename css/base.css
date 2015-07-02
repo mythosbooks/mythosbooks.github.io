@@ -204,6 +204,13 @@ footer {
 }
 
 /*help here */
+.left img {
+	float: left;
+	height: 100%;
+	padding: 2px;
+	margin: 10px;
+}
+
 .left {
     float: left;
     height: 100%;
