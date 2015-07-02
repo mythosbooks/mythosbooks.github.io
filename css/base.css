@@ -208,13 +208,14 @@ footer {
     float: left;
     height: 100%;
     padding: 2px;
-    margin: 10px 10px 60px 10px;
+    margin: 10px 10px 10px 10px;
     vertical-align: middle;
 }
 
 .right {
+    float: clear;	
     margin-left: -425px;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
     height: 100%;
 }
 
