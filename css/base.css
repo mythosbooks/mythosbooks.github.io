@@ -111,7 +111,7 @@ header a:active {
 }
  
 .menu > ul > li > a {
-    padding:5px 10px;
+    padding:5px 15px;
     display:inline-block;
     text-shadow:0px 1px 0px rgba(0,0,0,0.4);
 }
@@ -145,7 +145,7 @@ header a:active {
 }
  
 .sub-menu li a {
-    padding:5px 10px;
+    padding:5px 15px;
     display:block;
 }
  
