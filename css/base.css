@@ -172,6 +172,19 @@ article {
     padding: 0 20px 0 20px;
 }
 
+article a:link {
+    color: #016565;
+    text-decoration: none;
+}
+
+article a:hover {
+    color: #016565;
+    text-decoration: underline;
+}
+
+article a:visited {
+    text-decoration: none;
+}
 
 article h1 {
     font-family: "Montserrat", sans-serif;
